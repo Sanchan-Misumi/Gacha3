@@ -1,7 +1,7 @@
 //
 //  ViewController.swift
 //  Gacha3
-//
+///Users/mahomisumi/Desktop/GachaResources-3
 //  Created by Maho Misumi on 2017/10/23.
 //  Copyright © 2017年 Maho Misumi. All rights reserved.
 //
@@ -9,6 +9,7 @@
 import UIKit
 
 class ViewController: UIViewController {
+    
 
     override func viewDidLoad() {
         super.viewDidLoad()
